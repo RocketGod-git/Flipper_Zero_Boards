@@ -4,7 +4,7 @@
 
 Trying to keep up with demand so please bare with me if they are out of stock. I usually do a restock once a month depending on my schedule.
 
-## Bords for sale on the site
+## Boards for sale on the site
 - ESP32 DIY Board V2.1
 - NRF24 DIY Board V2 with optional nRF24 ML01DP5 add on
 - ESP32 V3 comeplete build with case and optional GPIO cover
